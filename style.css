@@ -1,0 +1,114 @@
+
+
+            body{
+                    background-color: rgb(245, 245, 245);
+            }
+            .fonts{
+                font-family: "Trebuchet MS";
+            }
+            .Legends {
+                font-family: "Trebuchet MS";
+                font-weight: bold;
+                color: #096798;
+                font-size: 150%;
+            }
+
+            .title{
+                color:  #096798;
+                font-family: "Trebuchet MS";
+            }
+            .mainField{
+                border-color: rgb(0, 129, 181);
+                border-radius: 2.2%;
+                border-width: 2.5px;
+
+            }
+            .info{
+                
+                border-radius: 8px;
+                width: 25%; /* Adjust this to change the width of the text boxes */
+                margin-left: auto;
+                margin-right: auto;
+                height: 22px;
+            }
+            .labels{
+                font-weight: bold;  
+                font-family: "Trebuchet MS";
+                font-size: 110%;
+            }
+            .centerme{
+                text-align: center;
+            }
+            
+            .logos{
+                height: 22px;
+                width: 22px;
+            }
+            .newsLetter{
+                padding-left: 2%;
+            }
+            #newsmail{
+                border-color: white;
+                padding-left: 3%;
+                border-radius: 82px;
+                height: 22px;
+                color: crimson;
+                
+            }
+            #subCenter{
+                width: 10%;
+                margin-left: 40%; 
+                border-radius: 8px;
+                width:8%;
+                height:27px;
+                color:#096798;
+                font-family:'Trebuchet MS';
+                font-weight:bold;  
+            }
+            #clearCenter{
+                width: 10%;
+                margin-left: 3%;
+                border-radius: 8px;
+                width:120px;
+                height:27px;
+                color:#096798;
+                font-family:'Trebuchet MS';
+                font-weight:bold;
+            }
+            #footer{
+                background-image: url(https://i.ibb.co/zVbMW9n/footer-bg.png);
+                border-radius: 8px;
+                background-repeat:repeat-y;
+                background-size: 100%;
+                height: 376px;
+                
+                
+            }
+            #booked{
+                text-align: center;
+                color:bisque;
+                font-family: "Trebuchet MS";
+            }
+            
+            a{
+                color:beige;
+            }
+            
+            #centerfield{
+                width: 35%;
+                margin: auto;
+            }
+            #centertxtarea{
+                
+                margin: auto;
+            }
+            #remarks{
+                text-align: center;
+                font-size: 150%
+            }
+            
+            .aster{
+                color: red;
+                width: 19%;
+                background-color: rgb(245, 245, 245);
+            }
